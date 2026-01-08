@@ -42,7 +42,7 @@ export default function Footer() {
         </div>
         <div className="footer-bottom">
           <p>&copy; {currentYear} DevOps Tutorials. All rights reserved.</p>
-          <p>Built with React + Vite | Containerized with Docker</p>
+          
         </div>
       </div>
     </footer>
